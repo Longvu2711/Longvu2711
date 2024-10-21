@@ -1,5 +1,10 @@
 # <3 About Me:
-4th year student.<br>steamId = "Watame"
+4th year student.
+Learing Swift, SwiftUI...
+
+
+
+<br>steamId = "Watame"
 
 
 # 💻 Tech Stack:
