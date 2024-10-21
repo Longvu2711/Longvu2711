@@ -1,6 +1,6 @@
 # <3 About Me:
 4th year student.
-<br> Web developer, android application.
+<br>Web and android app developer..
 <br>Learing Swift, SwiftUI...
 
 
