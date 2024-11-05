@@ -1,5 +1,5 @@
 # 
-Web and Mobile app developer...<br>Learing SwiftUI...<br>
+<br>Learing SwiftUI...<br>
 #
 
 
